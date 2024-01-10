@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.88aef992.chunk.css",
-    "main.js": "./static/js/main.d447b618.chunk.js",
-    "main.js.map": "./static/js/main.d447b618.chunk.js.map",
+    "main.js": "./static/js/main.4df7be35.chunk.js",
+    "main.js.map": "./static/js/main.4df7be35.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.5e002844.chunk.js": "./static/js/2.5e002844.chunk.js",
@@ -11,20 +11,20 @@
     "static/css/main.88aef992.chunk.css.map": "./static/css/main.88aef992.chunk.css.map",
     "static/js/2.5e002844.chunk.js.LICENSE.txt": "./static/js/2.5e002844.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/plus.dea15724.svg",
-    "static/media/accessories.ca41c40d.png": "./static/media/accessories.ca41c40d.png",
+    "static/media/accessories.e2712250.png": "./static/media/accessories.e2712250.png",
     "static/media/Breadcrumbs.scss": "./static/media/arrow-right-disabled.e028d388.svg",
-    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
-    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
-    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/banner-accessories.f6321554.jpg": "./static/media/banner-accessories.f6321554.jpg",
+    "static/media/banner-phones.391a4f5e.jpg": "./static/media/banner-phones.391a4f5e.jpg",
+    "static/media/banner-tablets.412b5a07.jpg": "./static/media/banner-tablets.412b5a07.jpg",
     "static/media/Search.scss": "./static/media/search.eb670dd9.svg",
     "static/media/logo.c9417692.svg": "./static/media/logo.c9417692.svg",
-    "static/media/phones.e8ce0c8a.png": "./static/media/phones.e8ce0c8a.png",
-    "static/media/tablets.985d7169.png": "./static/media/tablets.985d7169.png"
+    "static/media/phones.50580ae4.png": "./static/media/phones.50580ae4.png",
+    "static/media/tablets.1e987177.png": "./static/media/tablets.1e987177.png"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.5e002844.chunk.js",
     "static/css/main.88aef992.chunk.css",
-    "static/js/main.d447b618.chunk.js"
+    "static/js/main.4df7be35.chunk.js"
   ]
 }
